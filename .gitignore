@@ -1,0 +1,10 @@
+# TypeScript build output
+dist/
+build/
+output/
+
+# Node
+node_modules/
+
+# Logs
+*.log
