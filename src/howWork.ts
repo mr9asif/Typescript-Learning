@@ -3,3 +3,6 @@
 // then we can create a tsconfig.json file using --- tsc --init to more controll.
 //  also for run we can use only tsc after setting our src and ouput. but we can use -w to watch live
 // it's so important for us
+// it's so important for us
+// it's so important for us
+// it's so important for us
